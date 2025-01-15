@@ -1,5 +1,5 @@
 # Abstract-Nodes
-
+Minimal spec : 32GB / 16 Core
 # Update system
 ```
 sudo apt update && sudo apt upgrade -y
