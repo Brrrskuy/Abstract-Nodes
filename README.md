@@ -17,9 +17,11 @@ sudo systemctl start docker
 sudo systemctl enable docker
 ```
 # Clone repo
+```
 git clone https://github.com/Abstract-Foundation/abstract-node
+```
 
-#Go to directory
+# Go to directory
 ```
 cd abstract-node/external-node
 ```
